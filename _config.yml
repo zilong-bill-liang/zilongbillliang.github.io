@@ -28,8 +28,8 @@ author:
   pronouns         : "he/him/his" # example: "she/her"  
   bio              : "I design chips"
   location         : "Shenzhen, Guangdong, China"
-  employer         : "Solomon Systech Limited"
-  uri              : https://zilongbillliang.github.io # URL
+  employer         : "[Solomon Systech Limited](https://www.solomon-systech.com/)"
+  uri              : "https://zilong-bill-liang.github.io/zilongbillliang.github.io/" # URL
   email            : "zilongbill.liang@gmail.com" 
 
   # Academic websites
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3152-6323"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
